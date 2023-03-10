@@ -1,7 +1,7 @@
 # Acebook
 
 ## About this project
-Acebook is a social networking site that resembles Facebook, created as part of the curriculum at Makers Academy during weeks 8-9 of the engineering program. The platform was constructed utilizing the MERN (MongoDB, Express, React, and Node.js) technology stack. Jest was used to test the backend and cypress was used to test the frontend.
+Acebook is a social networking site that resembles Facebook. The platform was constructed utilizing the MERN (MongoDB, Express, React, and Node.js) technology stack. Jest was used to test the backend and Cypress was used to test the frontend.
 
 ## Features
 * User sign up
@@ -140,4 +140,3 @@ Through creating this app in a group environment, I improved my ability to:
 ![post with comment](./screenshots/post-with-comment.png)
 #### Hover over like button to see post likers
 ![screenshot of hover](./screenshots/hover-on-likers.png)
-
